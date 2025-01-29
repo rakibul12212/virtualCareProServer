@@ -7,7 +7,7 @@ Welcome to the **VirtualCarePro Server** project! This repository contains the s
 1. **Clone the Repository:**
     
     ```bash
-    git clone https://github.com/Programming-Hero-Next-Level-Development/health-care-server.git
+    git clone https://github.com/rakibul12212/virtualCareProServer.git
     ```
     
 2. **Navigate to the Project Directory:**
