@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\VirtualCarePro-Server\\logs\\winston\\successes\\.252fb69b48a973a87d004fced1c40557575a2118-audit.json",
+    "files": [
+        {
+            "date": 1737985993967,
+            "name": "F:\\VirtualCarePro-Server\\logs\\winston\\successes\\phu-2025-27-01-19-success.log",
+            "hash": "1fe025de6c9649ca3d5c1951f614515045d2c965433c02b99f191876da50867f"
+        },
+        {
+            "date": 1737989756538,
+            "name": "F:\\VirtualCarePro-Server\\logs\\winston\\successes\\phu-2025-27-01-20-success.log",
+            "hash": "98f0826051a796c8e01f8b8ee32563ba6cc094ed5cc6fb3c3332cc2e223f5d49"
+        },
+        {
+            "date": 1738005772304,
+            "name": "F:\\VirtualCarePro-Server\\logs\\winston\\successes\\phu-2025-28-01-01-success.log",
+            "hash": "581c18deeb342d6ff1cd7c9dd1bb8e7c4fb2bf5af7d283770074b780f6cd01b2"
+        },
+        {
+            "date": 1738049985867,
+            "name": "F:\\VirtualCarePro-Server\\logs\\winston\\successes\\phu-2025-28-01-13-success.log",
+            "hash": "118b08ade57c55e156556b21d70d940de5e1a49c214ea04fdd6d71765b2ef816"
+        },
+        {
+            "date": 1738184720387,
+            "name": "F:\\VirtualCarePro-Server\\logs\\winston\\successes\\phu-2025-30-01-03-success.log",
+            "hash": "d901488eebb770282fdd1b3d5c8f3eda5006a3dea3054aad1c333cf805b4413e"
+        }
+    ],
+    "hashType": "sha256"
+}
